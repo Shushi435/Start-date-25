@@ -1,2 +1,4 @@
 where is the user data
 fill the data of every user
+
+creat the avator for user
